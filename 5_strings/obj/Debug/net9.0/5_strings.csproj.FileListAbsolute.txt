@@ -1,0 +1,15 @@
+D:\CC - Learning\C-\5_strings\bin\Debug\net9.0\5_strings.exe
+D:\CC - Learning\C-\5_strings\bin\Debug\net9.0\5_strings.deps.json
+D:\CC - Learning\C-\5_strings\bin\Debug\net9.0\5_strings.runtimeconfig.json
+D:\CC - Learning\C-\5_strings\bin\Debug\net9.0\5_strings.dll
+D:\CC - Learning\C-\5_strings\bin\Debug\net9.0\5_strings.pdb
+D:\CC - Learning\C-\5_strings\obj\Debug\net9.0\5_strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\CC - Learning\C-\5_strings\obj\Debug\net9.0\5_strings.AssemblyInfoInputs.cache
+D:\CC - Learning\C-\5_strings\obj\Debug\net9.0\5_strings.AssemblyInfo.cs
+D:\CC - Learning\C-\5_strings\obj\Debug\net9.0\5_strings.csproj.CoreCompileInputs.cache
+D:\CC - Learning\C-\5_strings\obj\Debug\net9.0\5_strings.sourcelink.json
+D:\CC - Learning\C-\5_strings\obj\Debug\net9.0\5_strings.dll
+D:\CC - Learning\C-\5_strings\obj\Debug\net9.0\refint\5_strings.dll
+D:\CC - Learning\C-\5_strings\obj\Debug\net9.0\5_strings.pdb
+D:\CC - Learning\C-\5_strings\obj\Debug\net9.0\5_strings.genruntimeconfig.cache
+D:\CC - Learning\C-\5_strings\obj\Debug\net9.0\ref\5_strings.dll

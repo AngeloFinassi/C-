@@ -1,0 +1,15 @@
+D:\CC - Learning\C-\3_loops\obj\Debug\net9.0\3_loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\CC - Learning\C-\3_loops\obj\Debug\net9.0\3_loops.AssemblyInfoInputs.cache
+D:\CC - Learning\C-\3_loops\obj\Debug\net9.0\3_loops.AssemblyInfo.cs
+D:\CC - Learning\C-\3_loops\obj\Debug\net9.0\3_loops.csproj.CoreCompileInputs.cache
+D:\CC - Learning\C-\3_loops\obj\Debug\net9.0\3_loops.sourcelink.json
+D:\CC - Learning\C-\3_loops\bin\Debug\net9.0\3_loops.exe
+D:\CC - Learning\C-\3_loops\bin\Debug\net9.0\3_loops.deps.json
+D:\CC - Learning\C-\3_loops\bin\Debug\net9.0\3_loops.runtimeconfig.json
+D:\CC - Learning\C-\3_loops\bin\Debug\net9.0\3_loops.dll
+D:\CC - Learning\C-\3_loops\bin\Debug\net9.0\3_loops.pdb
+D:\CC - Learning\C-\3_loops\obj\Debug\net9.0\3_loops.dll
+D:\CC - Learning\C-\3_loops\obj\Debug\net9.0\refint\3_loops.dll
+D:\CC - Learning\C-\3_loops\obj\Debug\net9.0\3_loops.pdb
+D:\CC - Learning\C-\3_loops\obj\Debug\net9.0\3_loops.genruntimeconfig.cache
+D:\CC - Learning\C-\3_loops\obj\Debug\net9.0\ref\3_loops.dll

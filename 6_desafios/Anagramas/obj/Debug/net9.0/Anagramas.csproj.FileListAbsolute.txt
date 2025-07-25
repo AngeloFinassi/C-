@@ -1,0 +1,15 @@
+D:\CC - Learning\C-\6_desafios\Anagramas\obj\Debug\net9.0\Anagramas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CC - Learning\C-\6_desafios\Anagramas\obj\Debug\net9.0\Anagramas.AssemblyInfoInputs.cache
+D:\CC - Learning\C-\6_desafios\Anagramas\obj\Debug\net9.0\Anagramas.AssemblyInfo.cs
+D:\CC - Learning\C-\6_desafios\Anagramas\obj\Debug\net9.0\Anagramas.csproj.CoreCompileInputs.cache
+D:\CC - Learning\C-\6_desafios\Anagramas\obj\Debug\net9.0\Anagramas.sourcelink.json
+D:\CC - Learning\C-\6_desafios\Anagramas\bin\Debug\net9.0\Anagramas.exe
+D:\CC - Learning\C-\6_desafios\Anagramas\bin\Debug\net9.0\Anagramas.deps.json
+D:\CC - Learning\C-\6_desafios\Anagramas\bin\Debug\net9.0\Anagramas.runtimeconfig.json
+D:\CC - Learning\C-\6_desafios\Anagramas\bin\Debug\net9.0\Anagramas.dll
+D:\CC - Learning\C-\6_desafios\Anagramas\bin\Debug\net9.0\Anagramas.pdb
+D:\CC - Learning\C-\6_desafios\Anagramas\obj\Debug\net9.0\Anagramas.dll
+D:\CC - Learning\C-\6_desafios\Anagramas\obj\Debug\net9.0\refint\Anagramas.dll
+D:\CC - Learning\C-\6_desafios\Anagramas\obj\Debug\net9.0\Anagramas.pdb
+D:\CC - Learning\C-\6_desafios\Anagramas\obj\Debug\net9.0\Anagramas.genruntimeconfig.cache
+D:\CC - Learning\C-\6_desafios\Anagramas\obj\Debug\net9.0\ref\Anagramas.dll

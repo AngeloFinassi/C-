@@ -1,0 +1,15 @@
+D:\CC - Learning\C-\2_conditions\bin\Debug\net9.0\conditions.exe
+D:\CC - Learning\C-\2_conditions\bin\Debug\net9.0\conditions.deps.json
+D:\CC - Learning\C-\2_conditions\bin\Debug\net9.0\conditions.runtimeconfig.json
+D:\CC - Learning\C-\2_conditions\bin\Debug\net9.0\conditions.dll
+D:\CC - Learning\C-\2_conditions\bin\Debug\net9.0\conditions.pdb
+D:\CC - Learning\C-\2_conditions\obj\Debug\net9.0\conditions.GeneratedMSBuildEditorConfig.editorconfig
+D:\CC - Learning\C-\2_conditions\obj\Debug\net9.0\conditions.AssemblyInfoInputs.cache
+D:\CC - Learning\C-\2_conditions\obj\Debug\net9.0\conditions.AssemblyInfo.cs
+D:\CC - Learning\C-\2_conditions\obj\Debug\net9.0\conditions.csproj.CoreCompileInputs.cache
+D:\CC - Learning\C-\2_conditions\obj\Debug\net9.0\conditions.sourcelink.json
+D:\CC - Learning\C-\2_conditions\obj\Debug\net9.0\conditions.dll
+D:\CC - Learning\C-\2_conditions\obj\Debug\net9.0\refint\conditions.dll
+D:\CC - Learning\C-\2_conditions\obj\Debug\net9.0\conditions.pdb
+D:\CC - Learning\C-\2_conditions\obj\Debug\net9.0\conditions.genruntimeconfig.cache
+D:\CC - Learning\C-\2_conditions\obj\Debug\net9.0\ref\conditions.dll
