@@ -24,7 +24,6 @@ var quanti = 183.2;
 DateTime dataDeNascimento = new DateTime(1995, 10, 25);
 DateTime agora = DateTime.Now;
 
-
 // Example of formated print
 string msg = $"Hello Word!, I'am {name} and I'am {idade} years old";
 
